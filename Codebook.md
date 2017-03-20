@@ -78,5 +78,10 @@ The following is a list of all the variables taken per measurement
 * bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 * angle(): Angle between to vectors.
 
-#Activity Assignments
-
+# Activity Assignments
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
